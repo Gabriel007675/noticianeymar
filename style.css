@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: aqua
+}
+
+h1 {
+    color: rgb(0, 89, 255);
+    text-align: center;
+}
+
+p {
+    color: rgb(107, 13, 231);
+    font-size: large
+}
+
+i {
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    font-size: small;
+}
